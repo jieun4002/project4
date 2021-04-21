@@ -42,14 +42,14 @@ header h1{
   border-bottom: 2px #000 solid;
 }
 .container .new .video-wrap1{
-  width: 54.1%; 
-  height: 66.76vw;
+  width: 53%; 
+  height: 65vw;
   border-bottom: none;
   }
 .container .new .video-wrap1 video{ 
-  width: 100%;
+  width: 99%;
   border-right: 2px #000 solid;
-  height: 66.76vw;
+  height: 65vw;
 }
 .container .new .video-wrap1 p{display: none;}
 .container .new .newbox{
